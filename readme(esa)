@@ -1,0 +1,74 @@
+Employee Salary Analyzer
+
+This is a small Python project I created to practice my Python programming skills.
+
+The project stores employee details like name, department, salary, and bonus, and then calculates and analyzes the employee's total salary.
+
+What this project does
+Stores employee details
+Calculates total salary
+Adds salary and bonus
+Checks the salary category
+Displays employee information
+Example
+employees = [
+    {
+        "name": "Madhan",
+        "department": "Sales",
+        "salary": 10000,
+        "bonus": 689
+    },
+    {
+        "name": "Vinoth",
+        "department": "Management",
+        "salary": 40000,
+        "bonus": 45000
+    }
+]
+Salary Calculation
+Total Salary = Salary + Bonus
+
+For example:
+
+Salary = ₹10,000
+Bonus = ₹689
+
+Total Salary = ₹10,689
+Salary Category
+
+The program checks the total salary and gives a category:
+
+10,000 or above → High End
+5,000 or above  → Middle Class
+Below 5,000     → Low Class
+Python Concepts I Used
+
+While making this project, I practiced:
+
+Variables
+Input and output
+Lists
+Dictionaries
+if, elif, else
+Loops
+Calculations
+Functions
+What I want to add later
+
+I am planning to improve this project by adding:
+
+User input
+File handling
+CSV files
+MySQL database
+Employee search
+Employee update and delete
+Salary reports
+Charts
+GUI
+Web application
+About This Project
+
+This is a beginner Python project that I made while learning programming.
+
+I will continue improving it as I learn more Python, SQL, and data analysis.
